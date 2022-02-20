@@ -1,0 +1,21 @@
+.col1Img {
+  max-width: 400px;
+  height: auto;
+  width: auto;
+}
+
+.body {
+  padding: 2rem;
+}
+
+.paddingbottom {
+  padding-bottom: 1rem;
+}
+
+.btnrow {
+  padding: 2rem 0;
+}
+
+.btn {
+  width: 10rem;
+}
